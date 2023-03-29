@@ -33,8 +33,7 @@ int main ()
         }
     }
     printf (" \n Array elements after deletion of the duplicate elements: ");
-
-    // for loop to print the array
+    
     for ( i = 0; i < size; i++)
     {
         printf (" %d \t", arr[i]);
